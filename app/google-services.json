@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495252802767",
+    "project_id": "jewelerapp-db02b",
+    "storage_bucket": "jewelerapp-db02b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495252802767:android:fefcb51f7e2bb2154dbbba",
+        "android_client_info": {
+          "package_name": "com.example.jewelerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495252802767-pbasu7d7j7js935tt8v1dfhpm61us4hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArCogHukDXyGfWUI8XbFqrhVkKxjsSsoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495252802767-pbasu7d7j7js935tt8v1dfhpm61us4hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
